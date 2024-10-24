@@ -23,8 +23,6 @@ The application provides a user-friendly interface for tracking expenses for bet
   - **Axios** for handling API requests
   - **Tailwind CSS** for additional styling
 
-## Setup Instructions
-
 ### Prerequisites
 
 - Node.js (v20+)
